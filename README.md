@@ -9,9 +9,9 @@ I am a Senior .NET Full-Stack Developer with a passion for building software tha
 - 🌍 Based in Tehran, Iran.
 
 ## 🔗 Connect with Me:
-<a href="https://linkedin.com/in/alihemmati1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ali_Hemmati-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/22922094/ali-hemmati" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Ali_Hemmati-FE7A16?style=flat-square&logo=stack-overflow"></a>
-<a href="https://codepen.io/Hematiali" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-Hematiali-black?style=flat-square&logo=codepen"></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alihemmati1/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/22922094/ali-hemmati)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Hematiali)
 
 ## 📫 Get in Touch:
 - Email me at [hematialiii@gmail.com](mailto:hematialiii@gmail.com)
