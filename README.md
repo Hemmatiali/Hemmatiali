@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Hemmati 👋
 
-I am a Senior .NET Full-Stack Developer with a passion for building software that makes a difference. With over 9 years in the tech industry, I've had the privilege of working on national-level projects and leading teams to create impactful software solutions. My journey in technology is driven by my curiosity and my commitment to continuous learning and improvement.
+I am a Senior .NET Full-Stack Developer with a passion for building software that makes a difference. With over 10 years in the tech industry, I've had the privilege of working on national-level projects and leading teams to create impactful software solutions. My journey in technology is driven by my curiosity and my commitment to continuous learning and improvement.
 
 ## 🌟 About Me:
 - 🚀 Contributing to large-scale software projects and innovative solutions.
