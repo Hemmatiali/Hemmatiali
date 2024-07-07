@@ -12,6 +12,3 @@ I am a Senior .NET Full-Stack Developer with a passion for building software tha
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alihemmati1/)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/22922094/ali-hemmati)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Hematiali)
-
-## 📫 Get in Touch:
-- Email me at [hematialiii@gmail.com](mailto:hematialiii@gmail.com)
