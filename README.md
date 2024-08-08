@@ -1,4 +1,4 @@
-![](assets/droidtocat.png)
+![](assets/header.avif)
 
 <h1 align="center"> Hi there, I'm Ali Hemmati 👋 </h1>
 
@@ -8,9 +8,9 @@ I am a Senior .NET Full-Stack Developer with a passion for building software tha
 
 <h2 align="center"> 🌟 About Me:</h2>
 <p align="center"> 
-- 🚀 Contributing to large-scale software projects and innovative solutions.
-- 🌱 Passionate about teaching and mentoring juniors and sharing knowledge.
-- 🎯 Focused on creating user-centric and efficient applications.
+- 🚀 Contributing to large-scale software projects and innovative solutions. <br>
+- 🌱 Passionate about teaching and mentoring juniors and sharing knowledge. <br>
+- 🎯 Focused on creating user-centric and efficient applications. <br>
 - 🌍 Based in Tehran, Iran.
 </p>
 
