@@ -3,25 +3,24 @@
 <h1 align="center">Hi, I'm Ali Hemmati 👋</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer – Specialized in .NET Full-Stack Development</strong><br>
-  Designing maintainable systems, building scalable solutions, and mentoring with purpose.
+  <strong>Senior .NET Full-Stack Developer</strong><br>
+  Focused on building clean, scalable, and high-impact software solutions.
 </p>
 
 ---
 
 <p align="center">
-With over a decade of experience in software engineering, I focus on crafting well-structured, performance-oriented applications across distributed systems and enterprise platforms. My work spans national-scale projects, product leadership, and mentoring developers toward engineering excellence. I approach software not just as code—but as architecture, communication, and long-term impact.
+With over 10 years of experience in software development, I specialize in full-stack .NET applications and have contributed to national-scale projects. I'm passionate about clean architecture, code quality, and mentoring the next generation of developers. I value continuous improvement and creating software that solves real problems.
 </p>
 
 ---
 
-<h2 align="center">Professional Focus</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-• Engineering robust backend systems and full-stack applications with the .NET ecosystem<br>
-• Designing clean, maintainable architectures that scale with business needs<br>
-• Leading and mentoring development teams through hands-on technical guidance<br>
-• Actively engaged in continuous learning, with a strong focus on system design and development best practices<br>
+• Experienced in designing and delivering large-scale solutions using modern .NET technologies<br>
+• Active mentor and educator for junior developers and teams<br>
+• Strong focus on software architecture, scalable system design, and engineering best practices<br>
 • Based in Tehran, Iran
 </p>
 
