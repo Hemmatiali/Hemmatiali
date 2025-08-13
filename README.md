@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-With over 10 years of experience in software development, I specialize in full-stack .NET applications and have contributed to national-scale projects. I'm passionate about clean architecture, code quality, and mentoring the next generation of developers. I value continuous improvement and creating software that solves real problems.
+With over 12 years of experience in software development, I specialize in full-stack .NET applications and have contributed to national-scale projects. I'm passionate about clean architecture, code quality, and mentoring the next generation of developers. I value continuous improvement and creating software that solves real problems.
 </p>
 
 ---
