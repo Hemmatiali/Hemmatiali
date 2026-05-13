@@ -1,4 +1,6 @@
-![](assets/MHeader.png)
+<p align="center">
+  <img src="assets/MHeader.png" width="50%" alt="Header" />
+</p>
 
 <h1 align="center">Hi, I'm Ali Hemmati 👋</h1>
 
@@ -34,7 +36,7 @@ I also enjoy mentoring and helping engineers grow through practical, real-world 
   <a href="https://github.com/Hemmatiali" alt="GitHub">
     <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/alihemmati1" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/alihemmati1" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://stackoverflow.com/users/22922094/ali-hemmati" alt="Stack Overflow">
