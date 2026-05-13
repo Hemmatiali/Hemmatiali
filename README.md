@@ -2,7 +2,9 @@
   <img src="assets/MHeader.png" width="50%" alt="Header" />
 </p>
 
-<h1 align="center">Hi, I'm Ali Hemmati 👋</h1>
+<h1 align="center">Hi, I'm Ali Hemmati — a passionate software engineer who loves solving complex challenges</h1>
+
+<h3 align="center">Code is like a poem. Repos are my poems. Enjoy.</h3>
 
 <p align="center">
   <strong>.NET Professional (Full-Stack) | Backend Architecture | Distributed Systems</strong><br>
