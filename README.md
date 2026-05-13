@@ -3,14 +3,16 @@
 <h1 align="center">Hi, I'm Ali Hemmati 👋</h1>
 
 <p align="center">
-  <strong>Senior .NET Full-Stack Developer</strong><br>
-  Focused on building clean, scalable, and high-impact software solutions.
+  <strong>.NET Professional (Full-Stack) | Backend Architecture | Distributed Systems</strong><br>
+  Building scalable, reliable software with a strong focus on clean design and production quality.
 </p>
 
 ---
 
 <p align="center">
-With over 12 years of experience in software development, I specialize in full-stack .NET applications and have contributed to national-scale projects. I'm passionate about clean architecture, code quality, and mentoring the next generation of developers. I value continuous improvement and creating software that solves real problems.
+With 12+ years of experience, I design and build production systems across travel-tech, fintech, and on-demand logistics.
+My work focuses on backend architecture, high-load APIs, data-intensive services, and observability—turning complex requirements into clean, maintainable solutions.
+I also enjoy mentoring and helping engineers grow through practical, real-world engineering habits.
 </p>
 
 ---
@@ -18,10 +20,11 @@ With over 12 years of experience in software development, I specialize in full-s
 <h2 align="center">About Me</h2>
 
 <p align="center">
-• Experienced in designing and delivering large-scale solutions using modern .NET technologies<br>
-• Active mentor and educator for junior developers and teams<br>
-• Strong focus on software architecture, scalable system design, and engineering best practices<br>
-• Based in Tehran, Iran
+• Backend architecture & system design for scalable services<br>
+• High-load APIs, data processing, and performance/reliability improvements<br>
+• Event-driven workflows, messaging, and distributed caching patterns<br>
+• Mentorship, code reviews, and engineering best practices<br>
+• Location: Tehran, Iran (Open to UAE/Oman & Remote roles)<br>
 </p>
 
 ---
