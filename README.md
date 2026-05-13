@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center" style="text-align: justify;">
+<p align="justify">
 With 13+ years of experience, I design and build production systems across travel-tech, fintech, and on-demand logistics.
 My work focuses on backend architecture, high-load APIs, data-intensive services, and observability—turning complex requirements into clean, maintainable solutions.
 I also enjoy mentoring and helping engineers grow through practical, real-world engineering habits.
