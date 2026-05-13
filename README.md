@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-With 12+ years of experience, I design and build production systems across travel-tech, fintech, and on-demand logistics.
+With 13+ years of experience, I design and build production systems across travel-tech, fintech, and on-demand logistics.
 My work focuses on backend architecture, high-load APIs, data-intensive services, and observability—turning complex requirements into clean, maintainable solutions.
 I also enjoy mentoring and helping engineers grow through practical, real-world engineering habits.
 </p>
@@ -24,7 +24,6 @@ I also enjoy mentoring and helping engineers grow through practical, real-world 
 • High-load APIs, data processing, and performance/reliability improvements<br>
 • Event-driven workflows, messaging, and distributed caching patterns<br>
 • Mentorship, code reviews, and engineering best practices<br>
-• Location: Tehran, Iran (Open to UAE/Oman & Remote roles)<br>
 </p>
 
 ---
