@@ -2,7 +2,7 @@
   <img src="assets/MHeader.png" width="50%" alt="Header" />
 </p>
 
-<h1 align="center">Hi, I'm Ali Hemmati — a passionate software engineer who loves solving complex challenges</h1>
+<h2 align="center">a passionate software engineer who loves solving complex challenges.</h2>
 
 <h3 align="center">Code is like a poem. Repos are my poems. Enjoy.</h3>
 
